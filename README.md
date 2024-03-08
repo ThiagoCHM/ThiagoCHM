@@ -24,8 +24,6 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagochmoreira/" alt="LinkedIn"/></a>
   <a href="+5511931501221" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=+5511931501221" alt="WhatsApp"/></a>
-  <a href="https://www.facebook.com/profile.php?id=100090522105053" title="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100090522105053" alt="Facebook"/></a>
   <a href="https://www.instagram.com/thiagochm87/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/thiagochm87/" alt="Instagram"/></a>
 </p>
