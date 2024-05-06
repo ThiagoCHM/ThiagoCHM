@@ -1,22 +1,31 @@
 ![](https://komarev.com/ghpvc/?username=ThiagoCHM&color=006bed)
 
-<a href="https://github.com/ThiagoCHM" title="Perfil do Thiago C. H. Moreira">
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoCHM&theme=radical&show_icons=true" />
-</a>
-
-### Olá, sou Thiago C. H. Moreira... Sim, o próprio!
-
-#### 🚀 Minhas Skills
-
-
-<code><img height="47" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="47" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-<code><img height="47" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="47" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="47" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="47" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<p></p>
-<p></p>
+<div style="display: flex; flex-direction: row;">
+  <div style="flex: 1; margin-right: 10px;">
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=ThiagoCHM&theme=radical&show_icons=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+    <h3>### Olá, sou Thiago C. H. Moreira... Sim, o próprio!</h3>
+    <h4>🚀 Minhas Skills</h4>
+    <div style="display: flex; flex-wrap: wrap;">
+      <code><img height="47" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+      <code><img height="47" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+      <code><img height="47" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+      <code><img height="47" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+      <code><img height="47" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+      <code><img height="47" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+      <br />
+      <br />
+      <img align="left" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoCHM&layout=compact&theme=radical" />
+    </div>
+    <div>
+  </div>
+</div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <p align="left">
   <a href="thiagochm@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=thiagochm@gmail.com" alt="Gmail"/></a>
