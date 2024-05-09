@@ -28,6 +28,7 @@
 <br />
 <br />
 <br />
+<br />
 <p align="center">
   <a href="thiagochm@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=thiagochm@gmail.com" alt="Gmail"/></a>
