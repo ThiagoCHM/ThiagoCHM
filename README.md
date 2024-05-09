@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-direction: row;">
   <div style="flex: 1; margin-right: 10px;">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoCHM&theme=radical" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoCHM&langs_count=7&theme=radical" />
     <h3>### Olá, sou Thiago C. H. Moreira... Sim, o próprio!</h3>
     <h4>🚀 Minhas Skills</h4>
     <div style="display: flex; flex-wrap: wrap;">
@@ -26,7 +26,9 @@
 <br />
 <br />
 <br />
-<p align="right">
+<br />
+<br />
+<p align="center">
   <a href="thiagochm@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=thiagochm@gmail.com" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/thiagochmoreira/" title="LinkedIn">
@@ -36,7 +38,6 @@
   <a href="https://www.instagram.com/thiagochm87/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/thiagochm87/" alt="Instagram"/></a>
 </p>
-<br />
 #### 👨‍💻 Este sou Eu!
 
 <p align="left"> 
