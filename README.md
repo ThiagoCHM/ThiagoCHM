@@ -3,7 +3,7 @@
 <div style="display: flex; flex-direction: row;">
   <div style="flex: 1; margin-right: 10px;">
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoCHM&langs_count=7&theme=radical" />
-    <h3>### Olá, sou Thiago C. H. Moreira... Sim, o próprio!</h3>
+    <h2>Olá, sou Thiago C. H. Moreira... Sim, o próprio!</h2>
     <h4>🚀 Minhas Skills</h4>
     <div style="display: flex; flex-wrap: wrap;">
       <code><img height="47" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
@@ -39,7 +39,8 @@
   <a href="https://www.instagram.com/thiagochm87/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/thiagochm87/" alt="Instagram"/></a>
 </p>
-#### 👨‍💻 Este sou Eu!
+  
+<h3> 👨‍💻 Este sou Eu!</h3>
 
 <p align="left"> 
 Flexível e sempre na vibe para encarar uns desafios. Me considero meio nômade do trabalho, já fiz de tudo um pouco, de Cerimonialista a Diretor Administrativo e até Instrutor de Escalada, mas meu forte mesmo é na área administrativa, muito devido a minha comunicação e forma organizar de projetos. 📈
