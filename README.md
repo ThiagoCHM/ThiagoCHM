@@ -43,11 +43,11 @@
 <h3> 👨‍💻 Este sou Eu!</h3>
 
 <p align="left"> 
-Flexível e sempre na vibe para encarar uns desafios. Me considero meio nômade do trabalho, já fiz de tudo um pouco, de Cerimonialista a Diretor Administrativo e até Instrutor de Escalada, mas meu forte mesmo é na área administrativa, muito devido a minha comunicação e forma organizar de projetos. 📈
+Flexível e sempre na vibe para encarar uns desafios. Me considero meio nômade do trabalho, já fiz de tudo um pouco, de Cerimonialista a Diretor Administrativo, mas foi na área administrativa onde fiquei por mais tempo, muito devido a minha comunicação e forma organizar de projetos. 📈
 
-Depois de 23 anos, retorno ao mundo da tecnologia, focado em aplicações Javascript e Typescript, me valendo da facilidade e gostos por aprender novas línguas/linguagens, busco recordar, por nostalgia o Cobol e outras Linguagens Legado, da época que era necessário uma placa ISA para conectar meu Mouse. 🖱️
+Depois de 17 anos, retorno ao mundo da tecnologia, focado em aplicações Javascript e Typescript, eventualmente exploro o Go e Rust; por me valer da facilidade e gostos por aprender novas línguas/linguagens, inclusive busco recordar, por nostalgia o Cobol e outras Linguagens Legado, da época que era necessário uma placa ISA para conectar meu Mouse. 🖱️
 
-Nesse novo capítulo da minha vida, tô afim de usar minhas habilidades de gestão de tempo e colar com as equipes para botar a mão na massa no desenvolvimento Back-End e Front-End. Compromisso total com prazos e ligado aos mínimos detalhes do projeto. 👨‍💻
+Nesse novo capítulo da minha vida, tô afim de usar minhas habilidades de gestão de tempo e colar com equipes para botar a mão na massa no desenvolvimento Back-End e Front-End. Compromisso total com prazos e ligado aos mínimos detalhes do projeto. 👨‍💻
 
 Bora "codar" juntos, partimos? 🚀
 </p>
