@@ -1,12 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=ThiagoCHM&color=006bed)
 
-
-
+<h2>Olá, sou Thiago C. H. Moreira... Sim, o próprio!</h2>
+<h3>🚀 Minhas Skills</h4>
 <div style="display: flex; flex-direction: row;">
   <div style="flex: 1; margin-right: 10px;">
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoCHM&langs_count=7&theme=radical" />
-    <h2>Olá, sou Thiago C. H. Moreira... Sim, o próprio!</h2>
-    <h4>🚀 Minhas Skills</h4>
     <div style="display: flex; flex-wrap: wrap;">
     <img height="48" src="https://i.ibb.co/MDcJWsK/javascript.png" alt="javascript"/>
     <img height="48" src="https://i.ibb.co/6yvXnqX/typescript.png" alt="typescript"/>
