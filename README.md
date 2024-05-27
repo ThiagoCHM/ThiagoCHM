@@ -9,7 +9,7 @@
     <img height="48" src="https://i.ibb.co/MDcJWsK/javascript.png" alt="javascript"/>
     <img height="48" src="https://i.ibb.co/6yvXnqX/typescript.png" alt="typescript"/>
     <img height="48" src="https://i.ibb.co/rbGQnbb/kotlin.png" alt="kotlin"/>
-    <img height="48" src="https://i.ibb.co/TkSNF5T/rust.png" alt="rust"/>
+    <img height="48" src="https://i.ibb.co/4YfQKK3/rust2.png" alt="rust"/>
     <img height="48" src="https://i.ibb.co/Zz8Mncn/golang.png" alt="golang"/>
     <img height="48" src="https://i.ibb.co/8zxgvC0/nodejs.png" alt="nodejs"/>
     <img height="48" src="https://i.ibb.co/0tbcnRd/cobol.png" alt="cobol"/>
@@ -53,14 +53,14 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/thiagochm87/" alt="Instagram"/></a>
 </p>
   
-<h3> 👨‍💻 Este sou Eu!</h3>
+<h3> Este sou Eu!</h3>
 
 <p align="left"> 
-Flexível e sempre na vibe para encarar uns desafios. Me considero meio nômade do trabalho, já fiz de tudo um pouco, de Cerimonialista a Diretor Administrativo, mas foi na área administrativa onde fiquei por mais tempo, muito devido a minha comunicação e forma organizar de projetos. 📈
+Flexível e sempre na vibe para encarar uns desafios. Me considero meio nômade do trabalho, já fiz de tudo um pouco, de Cerimonialista a Diretor Administrativo, mas foi na área administrativa onde fiquei por mais tempo, muito devido a minha comunicação e forma organizar de projetos.
 
-Depois de 17 anos, retorno ao mundo da tecnologia, focado em aplicações Javascript e Typescript, eventualmente exploro o Go e Rust; por me valer da facilidade e gostos por aprender novas línguas/linguagens, inclusive busco recordar, por nostalgia o Cobol e outras Linguagens Legado, da época que era necessário uma placa ISA para conectar meu Mouse. 🖱️
+Depois de 17 anos, retorno ao mundo da tecnologia, focado em aplicações Javascript e Typescript, eventualmente exploro o Go e Rust; por me valer da facilidade e gostos por aprender novas línguas/linguagens, inclusive busco recordar, por nostalgia o Cobol e outras Linguagens Legado, da época que era necessário uma placa ISA para conectar meu Mouse.
 
-Nesse novo capítulo da minha vida, tô afim de usar minhas habilidades de gestão de tempo e colar com equipes para botar a mão na massa no desenvolvimento Back-End e Front-End. Compromisso total com prazos e ligado aos mínimos detalhes do projeto. 👨‍💻
+Nesse novo capítulo da minha vida, tô afim de usar minhas habilidades de gestão de tempo e colar com equipes para botar a mão na massa no desenvolvimento Back-End e Front-End. Compromisso total com prazos e ligado aos mínimos detalhes do projeto.
 
-Bora "codar" juntos, partimos? 🚀
+Bora "codar" juntos, partimos?
 </p>
