@@ -42,7 +42,7 @@
 <br />
 <br />
 <br />
-<p align="center">
+<p align="left">
   <a href="thiagochm@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=thiagochm@gmail.com" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/thiagochmoreira/" title="LinkedIn">
