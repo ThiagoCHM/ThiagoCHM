@@ -1,17 +1,26 @@
 ![](https://komarev.com/ghpvc/?username=ThiagoCHM&color=006bed)
 
+
+
 <div style="display: flex; flex-direction: row;">
   <div style="flex: 1; margin-right: 10px;">
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoCHM&langs_count=7&theme=radical" />
     <h2>Olá, sou Thiago C. H. Moreira... Sim, o próprio!</h2>
     <h4>🚀 Minhas Skills</h4>
     <div style="display: flex; flex-wrap: wrap;">
-      <code><img height="47" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-      <code><img height="47" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-      <code><img height="47" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-      <code><img height="47" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-      <code><img height="47" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-      <code><img height="47" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+    <img height="48" src="https://i.ibb.co/MDcJWsK/javascript.png" alt="javascript"/>
+    <img height="48" src="https://i.ibb.co/6yvXnqX/typescript.png" alt="typescript"/>
+    <img height="48" src="https://i.ibb.co/rbGQnbb/kotlin.png" alt="kotlin"/>
+    <img height="48" src="https://i.ibb.co/TkSNF5T/rust.png" alt="rust"/>
+    <img height="48" src="https://i.ibb.co/Zz8Mncn/golang.png" alt="golang"/>
+    <img height="48" src="https://i.ibb.co/8zxgvC0/nodejs.png" alt="nodejs"/>
+    <br />
+    <img height="48" src="https://i.ibb.co/jDgm344/docker.png" alt="docker"/>
+    <img height="48" src="https://i.ibb.co/wwvGxSH/postgres.png" alt="postgres"/>
+    <img height="48" src="https://i.ibb.co/VtLW4j8/redis.png" alt="redis"/>
+    <img height="48" src="https://i.ibb.co/bdVRyCD/react.png" alt="react"/>
+    <img height="48" src="https://i.ibb.co/FgLRR1v/prisma.png" alt="prisma"/>
+    <img height="48" src="https://i.ibb.co/sKSMB1r/swagger.png" alt="swagger"/>
       <br />
       <br />
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=ThiagoCHM&theme=radical&show_icons=true&rank_icon=github" />
