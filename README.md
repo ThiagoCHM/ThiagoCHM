@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=ThiagoCHM&color=006bed)
 
 <h2>Olá, sou Thiago C. H. Moreira... Sim, o próprio!</h2>
-<h3>🚀 Minhas Skills</h4>
+<h3><img height= 20 src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" > Principais Skills <img height= 20 src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" ></h3>
 <div style="display: flex; flex-direction: row;">
   <div style="flex: 1; margin-right: 10px;">
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoCHM&langs_count=7&theme=radical" />
@@ -53,7 +53,7 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/thiagochm87/" alt="Instagram"/></a>
 </p>
   
-<h3> Este sou Eu!</h3>
+<h3><img height= 20 src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" > Sobre Mim <img height= 20 src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" ></h3>
 
 <p align="left"> 
 Desenvolvedor com Lógica Computacional Afiada. Habilidoso com JavaScript, TypeScript, Go, React, Node.js e Bancos de Dados como Postgres. Especialista em Arquitetura de Software, Metodologias Ágeis, SOLID, KISS, DRY, YAGNI, Criptografia, ORMs como Prisma, Swagger e Redoc. 🚀
