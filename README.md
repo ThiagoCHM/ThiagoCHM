@@ -64,3 +64,11 @@ Após de 17 anos, retornei ano passado ao mundo da tecnologia, focado em aplica�
 
 Sigo em Transição de Carreira, quero me estabelecer em Programação, afinal tô afim de usar minhas habilidades de gestão de tempo e colar com equipes para botar a mão na massa no desenvolvimento Back-End e Front-End. Compromisso total com prazos e ligado aos mínimos detalhes do projeto. 👨‍💻
 </p>
+
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThiagoCHM/ThiagoCHM/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThiagoCHM/ThiagoCHM/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/ThiagoCHM/ThiagoCHM/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
