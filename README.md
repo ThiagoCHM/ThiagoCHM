@@ -11,15 +11,15 @@
     <img height="48" src="https://i.ibb.co/rbGQnbb/kotlin.png" alt="kotlin"/>
     <img height="48" src="https://i.ibb.co/4YfQKK3/rust2.png" alt="rust"/>
     <img height="48" src="https://i.ibb.co/Zz8Mncn/golang.png" alt="golang"/>
+    <img height="48" src="https://i.ibb.co/bdVRyCD/react.png" alt="react"/>
     <img height="48" src="https://i.ibb.co/8zxgvC0/nodejs.png" alt="nodejs"/>
-    <img height="48" src="https://i.ibb.co/0tbcnRd/cobol.png" alt="cobol"/>
     <img height="48" src="https://i.ibb.co/pQhT4rS/html.png" alt="html"/>
     <img height="48" src="https://i.ibb.co/C0BMNWx/css.png" alt="css"/>
     <br />
     <img height="48" src="https://i.ibb.co/jDgm344/docker.png" alt="docker"/>
     <img height="48" src="https://i.ibb.co/wwvGxSH/postgres.png" alt="postgres"/>
+    <img height="48" src="https://i.ibb.co/2tXx01x/mongodb.png" alt="mongodb"/>
     <img height="48" src="https://i.ibb.co/VtLW4j8/redis.png" alt="redis"/>
-    <img height="48" src="https://i.ibb.co/bdVRyCD/react.png" alt="react"/>
     <img height="48" src="https://i.ibb.co/FgLRR1v/prisma.png" alt="prisma"/>
     <img height="48" src="https://i.ibb.co/sKSMB1r/swagger.png" alt="swagger"/>
     <img height="48" src="https://i.ibb.co/z8PXpTG/postman.png" alt="postman"/>
