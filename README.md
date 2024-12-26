@@ -54,11 +54,9 @@
 <h3><img height= 20 src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" > Sobre Mim <img height= 20 src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" ></h3>
 
 <p align="left"> 
-Desenvolvedor com Lógica Computacional Afiada. Habilidoso com JavaScript, TypeScript, Go, React, Node.js e Bancos de Dados como Postgres. Especialista em Arquitetura de Software, Metodologias Ágeis, SOLID, KISS, DRY, YAGNI, Criptografia, ORMs como Prisma, Swagger e Redoc. 🚀
+Com uma trajetória marcada pela resiliência e adaptabilidade, adquiri ampla experiência em diversos segmentos tanto no Brasil quanto no exterior. Minha paixão por tecnologia me levou a me especializar como Desenvolvedor Full Stack, com domínio em TypeScript, React, Node.js, Go, Rust, PostgreSQL, e MongoDB.
 
-Flexível e sempre na vibe para encarar uns desafios. Me considero meio nômade do trabalho, já fiz de tudo um pouco, de Cerimonialista a Diretor Administrativo, mas foi na área administrativa onde fiquei por mais tempo, muito devido a minha comunicação e forma organizar de projetos. 📈
+Atualmente, estou em transição de carreira, decidido a me estabelecer firmemente no desenvolvimento de software. Recentemente, concluí a implementação de uma plataforma de turismo para a Prefeitura de São Sebastião, destacando meu compromisso com a excelência técnica e estratégica. Minha habilidade em gerenciar equipes e projetos, aliada a uma lógica computacional afiada, me permite enfrentar desafios com flexibilidade e inovação.
 
-Após de 17 anos, retornei ano passado ao mundo da tecnologia, focado em aplicações Javascript, Typescript e Go, contudo, já me aventurei em pequenos projetos em outras linguagens, como Python e o nostálgico Cobol, afinal sou da época era necessário uma placa ISA para conectar meu Mouse. 🖱️
-
-Sigo em Transição de Carreira, quero me estabelecer em Programação, afinal tô afim de usar minhas habilidades de gestão de tempo e colar com equipes para botar a mão na massa no desenvolvimento Back-End e Front-End. Compromisso total com prazos e ligado aos mínimos detalhes do projeto. 👨‍💻
+Habituado com metodologias ágeis e princípios de design como SOLID e DRY, estou sempre pronto para aplicar minhas habilidades em novos projetos, trazendo resultados tangíveis e duradouros. Estou em busca de oportunidades para colaborar com equipes dinâmicas e inovadoras, colocar a mão na massa em desenvolvimento Back-End e Front-End, e continuar crescendo profissionalmente.
 </p>
