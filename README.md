@@ -6,25 +6,21 @@
   <div style="flex: 1; margin-right: 10px;">
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoCHM&langs_count=7&theme=radical" />
     <div style="display: flex; flex-wrap: wrap;">
-    <img height="48" src="https://i.ibb.co/MDcJWsK/javascript.png" alt="javascript"/>
-    <img height="48" src="https://i.ibb.co/6yvXnqX/typescript.png" alt="typescript"/>
-    <img height="48" src="https://i.ibb.co/rbGQnbb/kotlin.png" alt="kotlin"/>
-    <img height="48" src="https://i.ibb.co/4YfQKK3/rust2.png" alt="rust"/>
-    <img height="48" src="https://i.ibb.co/Zz8Mncn/golang.png" alt="golang"/>
-    <img height="48" src="https://i.ibb.co/bdVRyCD/react.png" alt="react"/>
-    <img height="48" src="https://i.ibb.co/8zxgvC0/nodejs.png" alt="nodejs"/>
-    <img height="48" src="https://i.ibb.co/pQhT4rS/html.png" alt="html"/>
-    <img height="48" src="https://i.ibb.co/C0BMNWx/css.png" alt="css"/>
+    <img height="60" src="https://i.ibb.co/6yvXnqX/typescript.png" alt="typescript"/>
+    <img height="60" src="https://i.ibb.co/4YfQKK3/rust2.png" alt="rust"/>
+    <img height="60" src="https://i.ibb.co/Zz8Mncn/golang.png" alt="golang"/>
+    <img height="60" src="https://i.ibb.co/bdVRyCD/react.png" alt="react"/>
+    <img height="60" src="https://i.ibb.co/8zxgvC0/nodejs.png" alt="nodejs"/>
+    <img height="60" src="https://i.ibb.co/pQhT4rS/html.png" alt="html"/>
+    <img height="60" src="https://i.ibb.co/C0BMNWx/css.png" alt="css"/>
     <br />
-    <img height="48" src="https://i.ibb.co/jDgm344/docker.png" alt="docker"/>
-    <img height="48" src="https://i.ibb.co/wwvGxSH/postgres.png" alt="postgres"/>
-    <img height="48" src="https://i.ibb.co/2tXx01x/mongodb.png" alt="mongodb"/>
-    <img height="48" src="https://i.ibb.co/VtLW4j8/redis.png" alt="redis"/>
-    <img height="48" src="https://i.ibb.co/FgLRR1v/prisma.png" alt="prisma"/>
-    <img height="48" src="https://i.ibb.co/sKSMB1r/swagger.png" alt="swagger"/>
-    <img height="48" src="https://i.ibb.co/z8PXpTG/postman.png" alt="postman"/>
-    <img height="48" src="https://i.ibb.co/JQ35R7t/nest.png" alt="nest"/>
-    <img height="48" src="https://i.ibb.co/f2ZFNnq/vuejs.png" alt="vuejs"/>
+    <img height="60" src="https://i.ibb.co/jDgm344/docker.png" alt="docker"/>
+    <img height="60" src="https://i.ibb.co/wwvGxSH/postgres.png" alt="postgres"/>
+    <img height="60" src="https://i.ibb.co/2tXx01x/mongodb.png" alt="mongodb"/>
+    <img height="60" src="https://i.ibb.co/VtLW4j8/redis.png" alt="redis"/>
+    <img height="60" src="https://i.ibb.co/FgLRR1v/prisma.png" alt="prisma"/>
+    <img height="60" src="https://i.ibb.co/sKSMB1r/swagger.png" alt="swagger"/>
+    <img height="60" src="https://i.ibb.co/z8PXpTG/postman.png" alt="postman"/>
       <br />
       <br />
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=ThiagoCHM&theme=radical&show_icons=true&rank_icon=github" />
